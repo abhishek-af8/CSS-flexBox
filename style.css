@@ -46,7 +46,6 @@ p{
 
 .third{
     justify-content: space-evenly;
-    height: auto;
 }
 
 
@@ -57,7 +56,6 @@ p{
 
 .fifth{
     flex-wrap: wrap;
-    height: auto;
 }
 
 
