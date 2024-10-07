@@ -37,7 +37,7 @@ p{
 
 .second{
     flex-direction: column;
-    height: 300px;
+    height: auto;
 }
 .second:hover{
     flex-direction: column-reverse;
