@@ -34,6 +34,10 @@ p{
     background-color: #ffebeb;
 }
 
+.first{
+    height: auto;
+}
+
 
 .second{
     flex-direction: column;
@@ -46,24 +50,37 @@ p{
 
 .third{
     justify-content: space-evenly;
+    height: auto;
 }
 
 
 .fourth{
     align-items: center;
+    height: auto;
 }
 
 
 .fifth{
     flex-wrap: wrap;
+    height: auto;
 }
 
 
 .sixth{
     align-content: space-evenly;
     flex-wrap: wrap;
+    height: auto;
 }
 
+
+.seventh{
+    height: auto;
+}
+
+
+.eighth{
+    height: auto;
+}
 
 .square{
     width: 50px;
